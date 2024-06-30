@@ -1,0 +1,55 @@
+body{
+	font-family: Arial;
+	font-size: 1em;
+	max-width: 650px;
+	background-color: red;
+	border-spacing: none;
+	margin: 0 auto;
+}
+h2{
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	background-color: orange;
+	width: 650px;
+}
+h1{
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	background-color: yellow;
+	width: 650px;
+}
+img{
+	border-style: outset;
+	border-color: orange;
+	border-radius: 6px;
+	height: 400px;
+	width: 650px;
+}
+div{
+	border-style: inset;
+	border-color: black;
+	border-radius: 6px;
+	height: 60px;
+	width: 650px;
+}
+span{
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	background-color: orange;
+}
+/* body {
+    margin: 0 auto;
+}
+Use this to center a body*/
+button{
+	border-style: solid;
+	border-radius: 5px;
+	border-color: black;
+	background-color: brown;
+	color: black;
+	height: 60px;
+	width: 200px;
+}
